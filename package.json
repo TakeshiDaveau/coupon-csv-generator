@@ -1,0 +1,14 @@
+{
+  "name": "coupon-csv-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "generate": "ts-node main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.27",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
